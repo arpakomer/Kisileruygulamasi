@@ -4,3 +4,4 @@ I will make the following additions to the related project:
 - Hilt for dependency injection
 - DataBinding
 - Retrofit
+- Room Library
